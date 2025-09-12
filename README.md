@@ -51,10 +51,11 @@ CONVEROS, to verify the correctness of ASTERINAS concurrency modules such as syn
 detect specification-code discrepancies. 
 While many formal methods are challenging to apply due to complexity and the expertise required, CONVEROS makes model checking cost-effective, accessible, and adaptable to evolving specifications and code. 
 
-We applied C ONVEROS to 12 critical concurrency modules, uncovering 20 bugs that led to issues such as data races, deadlocks, livelocks, and kernel panics. With a specification-to-code ratio ranging from 0.3 to 2.3 and a verification effort of only four person-months, our results demonstrate the practicality and effectiveness of CONVEROS.
+We applied CONVEROS to 12 critical concurrency modules, uncovering 20 bugs that led to issues such as data races, deadlocks, livelocks, and kernel panics. With a specification-to-code ratio ranging from 0.3 to 2.3 and a verification effort of only four person-months, our results demonstrate the practicality and effectiveness of CONVEROS.
 
 | | |
 |-|-|
+| Repo | The CONVEROS tool is not open-source. The issues reported are available in the [Asterinas](https://github.com/asterinas/asterinas) repo (see detailed info in our ATC'25 paper). |
 | Paper | Ruize Tang, Minghua Wang, Xudong Sun, Lin Huang, Yu Huang, Xiaoxing Ma, Converos: Practical Model Checking for Verifying Rust OS Kernel Concurrency, in proc. of the 2025 USENIX Annual Technical Conference, Jul. 2025. |
 
 ### <a id="eurosys25"></a> Practical model checking of the Zookeeper coordination service
