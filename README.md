@@ -3,6 +3,8 @@ practical verification framework for concurrent and distributed systems
 
 ## Overview
 
+(This is a *wrapper* repo for a series of our work on practical verification of concurrent and distributed systems.)
+
 The CONFORMANCE framework is proposed for practical verification of concurrent and distributed systems.
 
 The framework advocates the interaction between the *model* and the *code*.
