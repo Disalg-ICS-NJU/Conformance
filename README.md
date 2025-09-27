@@ -33,6 +33,15 @@ Given that the model accurately describe the code, typical useage ofthe framewor
 
 - Test the system using existing techniques, and use the model as the test oracle.   
 
+## Automatic Formal Modeling based on LLMs and Agents
+
+### <a id="specula"></a> Specula - Synthesizing High-Quality TLA+ Specifications from Source Code
+
+| | |
+|-|-|
+| Repo | [https://github.com/specula-org/Specula](https://github.com/specula-org/Specula) |
+
+
 ## Applications
 
 - [Practical Model Checking for Verifying Rust OS Kernel Concurrency](#atc25)
