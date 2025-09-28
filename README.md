@@ -42,7 +42,7 @@ Given that the model accurately describe the code, typical useage ofthe framewor
 | Repo | [https://github.com/specula-org/Specula](https://github.com/specula-org/Specula) |
 
 
-## Applications
+## Applications of the Conformance Framework
 
 - [Practical Model Checking for Verifying Rust OS Kernel Concurrency](#atc25)
 - [Practical model checking of the Zookeeper coordination service](#eurosys25)
