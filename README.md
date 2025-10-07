@@ -35,7 +35,17 @@ Given that the model accurately describe the code, typical useage ofthe framewor
 
 ## Automatic Formal Modeling based on LLMs and Agents
 
-### <a id="specula"></a> Specula - Synthesizing High-Quality TLA+ Specifications from Source Code
+### <a id="bench"></a> A Benchmark
+
+Evaluating Agents on Formally Modeling Real-world Concurrent and Distributed Systems
+
+| | |
+|-|-|
+| Arxiv | [https://arxiv.org/abs/2509.23130](https://arxiv.org/abs/2509.23130) |
+
+### <a id="specula"></a> Specula
+
+An Agentic Approach to Synthesizing High-Quality TLA+ Specifications from Source Code
 
 | | |
 |-|-|
