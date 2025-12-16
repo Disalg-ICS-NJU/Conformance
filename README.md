@@ -1,7 +1,11 @@
 # CONFORMANCE
 practical verification framework for concurrent and distributed systems
 
-## Overview
+- [Overview](#overview)
+- [Automatic Formal Modeling based on LLMs and Agents](#llm)
+- [Applications of the Conformance Framework](#app)
+
+## <a id="overview"></a> Overview
 
 (This is a *wrapper* repo for a series of our work on practical verification of concurrent and distributed systems.)
 
@@ -33,7 +37,7 @@ Given that the model accurately describe the code, typical useage ofthe framewor
 
 - Test the system using existing techniques, and use the model as the test oracle.   
 
-## Automatic Formal Modeling based on LLMs and Agents
+## <a id="llm"></a> Automatic Formal Modeling based on LLMs and Agents
 
 ### <a id="bench"></a> A Benchmark
 
@@ -52,7 +56,7 @@ An Agentic Approach to Synthesizing High-Quality TLA+ Specifications from Source
 | Repo | [https://github.com/specula-org/Specula](https://github.com/specula-org/Specula) |
 
 
-## Applications of the Conformance Framework
+## <a id="app"></a> Applications of the Conformance Framework
 
 - [Practical Model Checking for Verifying Rust OS Kernel Concurrency](#atc25)
 - [Practical model checking of the Zookeeper coordination service](#eurosys25)
